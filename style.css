@@ -1,0 +1,76 @@
+body{
+    
+    background-color: white;
+}
+
+.wrapper{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    text-align: center;
+}
+
+.logo{
+    height: 80px;
+    background-color: papayawhip;
+    margin-bottom: 7px;
+    border-top-left-radius: 2pc;
+    border-top-right-radius: 2pc;
+}
+
+.nav{
+    height: 130px;
+    background-color: silver;
+    margin-bottom: 9px;
+}
+
+.content{
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: auto;
+        margin-bottom: auto;
+        background-color: azure;
+        height: 300px;
+        width: 100%;
+}
+
+.cont{
+        height: 300px;
+        background-color: slategray;
+        float: left;
+        width: 50%;
+}
+
+.news{
+        width: 50%;
+        height: 150px;
+        background-color: lightgrey;
+        float: right;
+}
+
+.updates{
+        width: 50%;
+        height: 150px;
+        background-color: lightgoldenrodyellow;
+        float: right;
+}
+
+.trends{
+        margin-top: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: auto;
+        background-color: aquamarine;
+        height: 130px;
+}
+
+.footer{
+        margin-top: 7px;
+        height: 80px;
+        background-color: lightblue;
+        border-bottom-left-radius: 2pc;
+        border-bottom-right-radius: 2pc;
+    }
+    
